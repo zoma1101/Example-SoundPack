@@ -1,0 +1,9 @@
+{
+  "priority": 5,
+  "music": "music/bgm_nether.ogg",
+  "dimensions": ["minecraft:the_nether"]
+}
+#bgm_combat.ogg is the ogg file you want to play in the music folder.
+#"priority" is the priority. If multiple conditions match, the one with the higher priority will be played first.
+#"is_combat" plays during combat.
+#"dimensions" will only play on the dimensions in that list.

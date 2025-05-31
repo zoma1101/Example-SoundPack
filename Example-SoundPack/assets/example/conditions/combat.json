@@ -1,0 +1,8 @@
+{
+  "priority": 10,
+  "music": "music/bgm_combat.ogg",
+  "is_combat": true
+}
+#bgm_combat.ogg is the ogg file you want to play in the music folder.
+#"priority" is the priority. If multiple conditions match, the one with the higher priority will be played first.
+#"is_combat" plays during combat.

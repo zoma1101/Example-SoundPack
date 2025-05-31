@@ -1,0 +1,6 @@
+{
+  "priority": 1,
+  "music": "music/bgm_default.ogg"
+}
+#bgm_default.ogg is the ogg file you want to play in the music folder.
+#"priority" is the priority. If multiple conditions match, the one with the higher priority will be played first.
