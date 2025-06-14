@@ -27,4 +27,4 @@ Each soundpack contains:
 | `max_y`        | `number`                 | Plays when player is below the specified Y-level. |
 | `weather`      | `["clear", "rain", "thunder"]` | Plays during the specified weather condition(s). |
 | `dimensions`   | `string[]`               | Plays in the specified dimensions. |
-| `gui_screen`   | `string[]`               | Plays only while the specified GUI screen is open. Valid values: `crafting`, `brewing_stand`, `shulker_box`, `furnace`, `anvil`, `enchantment`, `cartographytable`, `smithing`, `merchant`. |
+| `gui_screen`   | `string[]`               | Plays only while the specified GUI screen is open. Valid values: `crafting`, `brewing_stand`, `inventory`, `furnace`, `chest`,`creative`. |
