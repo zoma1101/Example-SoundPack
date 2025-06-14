@@ -1,0 +1,6 @@
+{
+  "priority": 25,
+  "music": "music/bgm_village_snowy.ogg",
+  "is_village": true,
+  "biomes": ["#forge:is_cold/overworld"]
+}

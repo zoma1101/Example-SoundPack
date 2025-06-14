@@ -1,0 +1,6 @@
+{
+  "priority": 30,
+  "music": "music/bgm_village_night.ogg",
+  "is_village": true,
+  "is_night" : true
+}

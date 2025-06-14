@@ -1,0 +1,5 @@
+{
+  "priority": 16,
+  "music": "music/bgm_rain.ogg",
+  "weather" : ["thunder","rain"]
+}

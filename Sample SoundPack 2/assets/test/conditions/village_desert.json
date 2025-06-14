@@ -1,0 +1,6 @@
+{
+  "priority": 25,
+  "music": "music/bgm_village_desert.ogg",
+  "is_village": true,
+  "biomes": ["minecraft:desert","minecraft:savanna","minecraft:savanna_plateau","minecraft:badlands","minecraft:eroded_badlands","minecraft:wooded_badlands"]
+}

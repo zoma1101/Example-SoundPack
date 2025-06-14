@@ -1,0 +1,5 @@
+{
+  "priority": 30,
+  "music": "music/bgm_default_nether.ogg",
+  "dimensions" : ["minecraft:the_nether"]
+}

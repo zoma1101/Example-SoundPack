@@ -1,0 +1,6 @@
+{
+  "priority": 110,
+  "music": "music/bgm_combat_nether.ogg",
+  "is_combat": true,
+  "dimensions" : ["minecraft:the_nether"]
+}

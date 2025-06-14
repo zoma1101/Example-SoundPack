@@ -1,0 +1,5 @@
+{
+  "priority": 100,
+  "music": "music/bgm_combat.ogg",
+  "is_combat": true
+}

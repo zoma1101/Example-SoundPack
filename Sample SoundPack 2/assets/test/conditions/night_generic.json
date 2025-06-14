@@ -1,0 +1,5 @@
+{
+  "priority": 15,
+  "music": "music/bgm_night.ogg",
+  "is_night": true
+}

@@ -1,0 +1,5 @@
+{
+  "priority": 10,
+  "music": "music/bgm_plains.ogg",
+  "biomes": ["#minecraft:has_structure/village_plains"]
+}

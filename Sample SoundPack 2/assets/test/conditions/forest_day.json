@@ -1,0 +1,6 @@
+{
+  "priority": 10,
+  "music": "music/bgm_forest_day.ogg",
+  "biomes": ["#minecraft:is_forest","#minecraft:is_taiga"],
+  "is_night": false
+}
